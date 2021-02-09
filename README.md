@@ -1,6 +1,6 @@
 # PyArmadillo - linear algebra library for Python
 
-* PyArmadillo is an alternative linear algebra library (matrix maths) for the Python language, with emphasis on ease of use
+* PyArmadillo is a streamlined linear algebra library (matrix maths) for the Python language, with emphasis on ease of use
 * Provides high-level syntax and functionality deliberately similar to Matlab
 * Provides classes for matrices and cubes; integer, floating point and complex elements are supported
 * Relies on [Armadillo](http://arma.sourceforge.net) for the underlying C++ implementation of matrix objects and associated functions
