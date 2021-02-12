@@ -3,6 +3,7 @@
 * PyArmadillo is a streamlined linear algebra library (matrix maths) for the Python language, with emphasis on ease of use
 * Provides high-level syntax and functionality deliberately similar to Matlab
 * Provides classes for matrices and cubes; integer, floating point and complex elements are supported
+* Alternative to NumPy / SciPy
 * Relies on [Armadillo](http://arma.sourceforge.net) for the underlying C++ implementation of matrix objects and associated functions
 * Can be used for machine learning,  pattern recognition, computer vision, signal processing, bioinformatics, statistics, finance, etc
 
