@@ -1,4 +1,4 @@
-# PyArmadillo - linear algebra library for Python
+# PyArmadillo - Matlab-like linear algebra library for Python
 
 * **Git repo at GitLab:**  
 [**gitlab.com/jason-rumengan/pyarma**](https://gitlab.com/jason-rumengan/pyarma)  
