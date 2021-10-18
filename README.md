@@ -1,15 +1,19 @@
-# PyArmadillo - user-friendly linear algebra library for Python
+# PyArmadillo - streamlined linear algebra library for Python
 
-* **Git repo at GitLab:**  
-[**gitlab.com/jason-rumengan/pyarma**](https://gitlab.com/jason-rumengan/pyarma)  
+* PyArmadillo is a user-friendly linear algebra and scientific computing library for Python, with Matlab-like syntax
 
-* **Main page and Releases:**  
-[**pyarma.sourceforge.io**](https://pyarma.sourceforge.io)
+* Provides objects for matrices and cubes, as well as over 200 associated functions for manipulating data stored in the objects
 
-* **API Documentation:**  
-[**pyarma.sourceforge.io/docs.html**](https://pyarma.sourceforge.io/docs.html)
+* Integer, floating point and complex elements are supported
 
-* PyArmadillo is a user-friendly linear algebra library (matrix maths) for Python, with Matlab-like syntax
-* Provides classes for matrices and cubes; integer, floating point and complex elements are supported
-* Employs [Armadillo](http://arma.sourceforge.net) as the underlying C++ implementation of matrix objects and associated functions
-* Can be used for machine learning,  pattern recognition, computer vision, signal processing, bioinformatics, statistics, finance, etc
+* Various matrix factorisations are provided through integration with LAPACK, or one of its high performance drop-in replacements (Intel MKL or OpenBLAS)
+
+* Can be used for machine learning, pattern recognition, computer vision, signal processing, bioinformatics, statistics, finance, etc
+
+* **How to install:** [pyarma.sourceforge.io](https://pyarma.sourceforge.io)
+
+* **Git repo:**  [gitlab.com/jason-rumengan/pyarma](https://gitlab.com/jason-rumengan/pyarma)  
+
+* **API Documentation:** [pyarma.sourceforge.io/docs.html](https://pyarma.sourceforge.io/docs.html)
+
+
